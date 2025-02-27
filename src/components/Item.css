@@ -1,0 +1,84 @@
+/* estilos de la pagina principal */
+.productos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.portada{
+    width: 100%;
+    height: 500px;
+}
+
+/* estilos del detalle de la card */
+.card-detail{
+    padding-top: 5%;
+    padding-left: 5%;
+}
+.card-carrito{
+    max-width: 640px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.stock-buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 10px;
+    align-content: center;
+
+}
+#number , p{
+    
+    margin-top: 10px;
+}
+.addTocart{
+    width: 27px;
+    height: 27px;
+}
+.compra{
+    margin-right: 5px;
+}
+
+/* estilos de la barra de navegacion */
+.carrito-img{
+    width: 30px;
+    height: 30px;
+}
+.busqueda{
+    width: 25px;
+    height: 25px;
+    margin-left: 5px;
+}
+
+.search-btn{
+    display: flex;
+}
+
+.eliminar{
+    width: 80%;
+    height: 80%;
+    
+}
+
+.delete-btn{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: yellowgreen;
+}
+.btn-dark{
+    margin-left: 10px;
+}
+.formulario{
+    width: 50%;
+    margin: 0 auto;
+}
+.productos {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); 
+    gap: 20px;
+    padding: 20px;
+    justify-items: center;
+  }
+  

@@ -1,0 +1,26 @@
+[
+{
+    "id":1,
+    "title":"Remera AFA tres estrellas",
+    "price":35000,
+    "categoria":"remeras",
+    "stock":12,
+    "img":"https://sporting.vtexassets.com/arquivos/ids/1026803-800-800?width=800&height=800&aspect=true"
+},
+{
+    "id":2,
+    "title":"Short Entrenamiento",
+    "price":26700,
+    "categoria":"pantalones",
+    "stock":20,
+    "img":"https://acdn.mitiendanube.com/stores/002/326/461/products/bdae065c-8256-4da9-88de-bcae35ca53ea-7dddee10215480427317002664854516-480-0.jpeg"
+},
+{
+    "id":3,
+    "title": "Musculosa entrenamiento",
+    "price":29000,
+    "categoria":"remeras",
+    "stock":16,
+    "img":"https://acdn.mitiendanube.com/stores/002/240/024/products/img-20230227-wa00311-562a0aa69622a65a2d16774855883216-480-0.jpg"
+}
+]
